@@ -1,0 +1,12 @@
+Event Description for ASU
+Org Name
+sundevil sync club url
+room
+advisor name
+advisor email
+advisor number
+coordinator number
+coordinator name
+coordinator email
+officer name
+officer email
